@@ -1,0 +1,9 @@
+venv/
+output/
+temp/
+__pycache__/
+.DS_Store
+
+best.pt
+demo.mp4
+images.jpeg
